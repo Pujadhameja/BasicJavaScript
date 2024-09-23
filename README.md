@@ -1,1 +1,1 @@
-Here are small projects I have been working on to build s better understanding of JavaScript
+Here are small projects I have been working on to get a better understanding of JavaScript
